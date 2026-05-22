@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0!important;
+}
+
+body {
+
+    background-color: aquamarine;
+}
+
+.caja1{
+
+    background-color: blueviolet;
+    border: 2px solid #000000;
+    
+    
+}
+ .caja2{
+    background-color: blanchedalmond;
+    border: 2px solid #000000;
+ }
